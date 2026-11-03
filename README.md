@@ -26,4 +26,4 @@ Data cleaning, XLOOKUP, pivot tables, array formulas, COUNTIFS/AVERAGEIFS, condi
 
 
 ## Author
-Priyanshi Pal | [LinkedIn](paste-your-profile-link-here)
+Priyanshi Pal
